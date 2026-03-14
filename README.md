@@ -1,4 +1,4 @@
-# 🚀 DataStream — Real-Time Data Pipeline Dashboard
+# Aethi: Real-Time Data Pipeline Dashboard
 
 A production-ready, full-stack streaming dashboard that demonstrates a complete
 data pipeline: **ingestion → processing → WebSocket streaming → React visualisation**.
